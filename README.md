@@ -58,7 +58,3 @@ For transparent backgrounds, the node preserves the alpha channel in the output,
 
 - ComfyUI
 - PyTorch
-
-## License
-
-MIT 
