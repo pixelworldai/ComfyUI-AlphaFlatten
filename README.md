@@ -1,4 +1,4 @@
-# ComfyUI-FlattenByAlpha
+# ComfyUI-AlphaFlatten
 
 A custom node for ComfyUI that flattens a batch of images with alpha channels into a single image, similar to Photoshop's flatten function.
 
